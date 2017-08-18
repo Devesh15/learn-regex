@@ -473,9 +473,9 @@ line. And because of `m` flag now regular expression engine matches pattern at t
 
 * Report issues
 * Open pull request with improvements
-* Spread the word
-* Reach out to me directly at ziishaned@gmail.com or [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ziishaned.svg?style=social&label=Follow%20%40ziishaned)](https://twitter.com/ziishaned)
+* Features Suggestions
+* Reach out to me directly at mahradnan@hotmail.com or [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/idnan_se.svg?style=social&label=Follow%20%40idnan_se)](https://twitter.com/idnan_se)
 
 ## License
 
-MIT © [Zeeshan Ahmed](mailto:ziishaned@gmail.com)
+MIT © [Adnan Ahmed](mailto:mahradnan@hotmail.com)
